@@ -13,7 +13,7 @@
       <value value="http://hl7.de/technische-komitees/fhir/" />
     </telecom>
   </contact>
-  <description value="Der 'Manifestations'-Code aus der Kreuz-Stern-Notation. An dieser Stelle ohne '*'-Symbol" />
+  <description value="Hoi" />
   <copyright value="HL7 Deutschland e.V." />
   <fhirVersion value="4.0.1" />
   <kind value="complex-type" />
